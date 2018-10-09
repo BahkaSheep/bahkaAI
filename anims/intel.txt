@@ -1,0 +1,23 @@
+2
+[                               ] 0%
+[ :wesmart:                              ] 5%
+[:wesmart::wesmart:                             ] 10%
+[:wesmart::wesmart::wesmart:                             ] 15%
+[:wesmart::wesmart::wesmart::wesmart:                           ] 20%
+[:wesmart::wesmart::wesmart::wesmart::wesmart:                          ] 25%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                         ] 25%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                        ] 30%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                       ] 35%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                      ] 40%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                     ] 45%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                    ] 50%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                   ] 55%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                  ] 60%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                 ] 65%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                ] 70 %
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:                ] 75%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:               ] 80%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:             ] 85%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:           ] 90%
+[:wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:         ] 95%
+[ :wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart::wesmart:      ] 100%
